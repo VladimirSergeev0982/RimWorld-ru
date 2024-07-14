@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- UNUSED -->
+  <!-- EN: activating TargetA. -->
   <ActivateThing.reportString>активирует {lookup: {TargetA}; Case; 3}</ActivateThing.reportString>
   
   <!-- EN: applying TargetB. -->
@@ -46,9 +46,6 @@
   <!-- EN: delivering TargetA. -->
   <DeliverToCell.reportString>доставляет TargetA</DeliverToCell.reportString>
   
-  <!-- EN: dismissing trader. -->
-  <DismissTrader.reportString>TODO</DismissTrader.reportString>
-  
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>бросает {lookup: {TargetA}; Case; 3}</DropEquipment.reportString>
   
@@ -59,16 +56,10 @@
   <EnterCryptosleepCasket.reportString>ложится в саркофаг криптосна</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterPortal.reportString>TODO</EnterPortal.reportString>
-  
-  <!-- EN: entering TargetA. -->
   <EnterTransporter.reportString>садится в {lookup: {TargetA}; Case; 3}</EnterTransporter.reportString>
   
   <!-- EN: equipping TargetA. -->
   <Equip.reportString>вооружается {lookup: {TargetA}; Case; 4}</Equip.reportString>
-  
-  <!-- EN: extinguishing fires nearby. -->
-  <ExtinguishFiresNearby.reportString>TODO</ExtinguishFiresNearby.reportString>
   
   <!-- EN: extinguishing self. -->
   <ExtinguishSelf.reportString>тушит себя</ExtinguishSelf.reportString>
@@ -113,9 +104,6 @@
   <HaulCorpseToPublicPlace.reportString>тащит {lookup: {TargetA}; Case; 3}</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToPortal.reportString>TODO</HaulToPortal.reportString>
-  
-  <!-- EN: hauling TargetA. -->
   <HaulToTransporter.reportString>тащит {lookup: {TargetA}; Case; 3}</HaulToTransporter.reportString>
   
   <!-- EN: idling. -->
@@ -132,9 +120,6 @@
   
   <!-- EN: insulting TargetA. -->
   <Insult.reportString>оскорбляет {TargetA}</Insult.reportString>
-  
-  <!-- EN: activating TargetA. -->
-  <InteractThing.reportString>TODO</InteractThing.reportString>
   
   <!-- EN: lying down. -->
   <LayDown.reportString>ложится</LayDown.reportString>
@@ -160,9 +145,6 @@
   <!-- EN: picking up TargetA. -->
   <PickupToHold.reportString>подбирает {lookup: {TargetA}; Case; 3}</PickupToHold.reportString>
   
-  <!-- EN: reading TargetA -->
-  <Reading.reportString>TODO</Reading.reportString>
-  
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>перезаряжает {lookup: {TargetA}; Case; 3}</RearmTurret.reportString>
   
@@ -186,9 +168,6 @@
   
   <!-- EN: fighting with TargetA. -->
   <SocialFight.reportString>бранится с {TargetA}</SocialFight.reportString>
-  
-  <!-- EN: staring. -->
-  <StandAndStare.reportString>TODO</StandAndStare.reportString>
   
   <!-- EN: stripping TargetA. -->
   <Strip.reportString>раздевает {TargetA}</Strip.reportString>
@@ -232,9 +211,6 @@
   <!-- EN: Doing something. -->
   <UseVerbOnThingStatic.reportString>чем-то занимается</UseVerbOnThingStatic.reportString>
   
-  <!-- EN: Doing something. -->
-  <UseVerbOnThingStaticReserve.reportString>TODO</UseVerbOnThingStaticReserve.reportString>
-  
   <!-- EN: vomiting. -->
   <Vomit.reportString>блюёт</Vomit.reportString>
   
@@ -243,9 +219,6 @@
   
   <!-- EN: sleeping. -->
   <Wait_Asleep.reportString>спит</Wait_Asleep.reportString>
-  
-  <!-- EN: sleeping. -->
-  <Wait_AsleepDormancy.reportString>TODO</Wait_AsleepDormancy.reportString>
   
   <!-- EN: watching for targets. -->
   <Wait_Combat.reportString>ищет цель</Wait_Combat.reportString>
